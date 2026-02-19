@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX and Product Design
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ... jennalee.tea@gmail.com
+- 📫 How to reach me ... lightwhale.team@gmail.com
 
 <!---
 Sakura-Petals/Sakura-Petals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
